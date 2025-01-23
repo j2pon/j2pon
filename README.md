@@ -37,7 +37,7 @@
 <hr style="border: none; border-top: 1px solid rgba(255, 255, 255, 0.1);" />
 
 <!-- Discord Hesabı -->
-<p align="center"><img src="https://readme-typing-svg.herokuapp.com?font=Lobster&pause=1000&color=59ffa0&background=69FF2000&center=true&vCenter=true&repeat=true&width=435&lines=Discord+Hesabım" alt="Typing SVG" /></p>
+<! -- <p align="center"><img src="https://readme-typing-svg.herokuapp.com?font=Lobster&pause=1000&color=59ffa0&background=69FF2000&center=true&vCenter=true&repeat=true&width=435&lines=Discord+Hesabım" alt="Typing SVG" /></p> !-->
 
 <p align="center">
  <a href="https://discord.com/users/274549490235736075"><img  width="400px" src="https://lanyard.kyrie25.me/api/274549490235736075?decoration=true&useDisplayName=true&animationDuration=2s&waveColor=59ffa8&imgStyle=square&imgBorderRadius=16px&bg=DD272700&idleMessage="></a>
