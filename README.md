@@ -4,7 +4,7 @@
 
 <!-- Discord Bilgisi ve Typing SVG -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=IBM+Plex+Serif&pause=1000&color=376074&background=69FF2000&center=true&vCenter=true&width=435&lines=%F0%9F%93%A9+Destek+Ve+%F0%9F%93%9E+Sorularınız+İçin;+Discord:+SALDIM KANKA BOTLARI KULLAN İSTE" alt="sadecerex"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=IBM+Plex+Serif&pause=1000&color=376074&background=69FF2000&center=true&vCenter=true&width=435&lines=%F0%9F%93%A9+Destek+Ve+%F0%9F%93%9E+Sorularınız+İçin;+Discord:+SALDIM+KANKA+BOTLARI+KULLAN+İSTE" alt="sadecerex"/>
 </p>
 
 <hr style="border: none; border-top: 1px solid rgba(255, 255, 255, 0.1);" />
