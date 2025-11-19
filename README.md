@@ -38,15 +38,3 @@
 
 <!-- Discord Hesabı -->
 
-
-<hr style="border: none; border-top: 1px solid rgba(255, 255, 255, 0.1);" />
-
-<!-- Github İstatistikleri -->
-<p align="center"><img src="https://readme-typing-svg.herokuapp.com?font=Lobster&pause=1000&color=ff7a00&background=69FF2000&center=true&vCenter=true&repeat=true&width=435&lines=+Github+İstatistikleri+" alt="Typing SVG" /></p>
-
-<hr style="border: none; border-top: 1px solid rgba(255, 255, 255, 0.1);" />
-
-<p align="center">
-   <img src="https://github-readme-stats.vercel.app/api?username=j2pon&count_private=true&show_icons=true&theme=midnight-blue&hide_border=true" width="150%" height="150px" alt="stats" align="center" />
-   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=j2pon&layout=compact&show_icons=true&theme=midnight-blue&hide_border=true" width="100%" height="150px" align="center" />
-</p>
